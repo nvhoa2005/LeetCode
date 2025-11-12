@@ -1,0 +1,5 @@
+Problem1: best-time-to-buy-and-sell-stock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+Problem2: 3sum
+https://leetcode.com/problems/3sum/
