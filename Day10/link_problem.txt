@@ -1,0 +1,2 @@
+Problem1: powx-n
+https://leetcode.com/problems/powx-n/
